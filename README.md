@@ -1,0 +1,1 @@
+Get data from VK and build a social graph
